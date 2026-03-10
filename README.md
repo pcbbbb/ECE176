@@ -1,4 +1,4 @@
-# Image Inpainting with CNN Models 🎨
+# Image Inpainting with CNN Models
 
 ## Overview
 This repository contains the official implementation of my final project for **ECE 176 (Deep Learning & Applications)** at UC San Diego. 
@@ -14,11 +14,9 @@ The goal of this project is to restore missing or corrupted regions of images us
 Here is a visual comparison of the model's performance on the dataset. The model takes the corrupted image as input and reconstructs the missing pixels to match the ground truth.
 
 Original Image (Ground Truth)
-![Original](1.png) 
-Restored Image (Output)
-![Restored](3.png)
-<img width="794" height="180" alt="3" src="https://github.com/user-attachments/assets/d3b439ba-8d11-44b0-b121-87e65f165590" />
 <img width="794" height="180" alt="1" src="https://github.com/user-attachments/assets/870bd2fa-5638-4bcc-8673-fc8290cca683" />
 
+Restored Image (Output)
+<img width="794" height="180" alt="3" src="https://github.com/user-attachments/assets/d3b439ba-8d11-44b0-b121-87e65f165590" />
 
 *(Note: Please refer to the Jupyter Notebooks for the complete training pipeline and data preprocessing steps.)*
