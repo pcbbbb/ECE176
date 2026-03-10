@@ -13,10 +13,12 @@ The goal of this project is to restore missing or corrupted regions of images us
 ## Results
 Here is a visual comparison of the model's performance on the dataset. The model takes the corrupted image as input and reconstructs the missing pixels to match the ground truth.
 
-| Original Image (Ground Truth) | Restored Image (Output) |
-| :---: | ---: |
-| ![Original](1.png) | ![Restored](3.png) |
-<img width="825" height="191" alt="1" src="https://github.com/user-attachments/assets/8fcff43d-ed7a-4257-8b8b-e15be172533f" />
-<img width="794" height="180" alt="3" src="https://github.com/user-attachments/assets/1ff75c82-f808-4f47-9c1c-59316c34436f" />
+Original Image (Ground Truth)
+![Original](1.png) 
+Restored Image (Output)
+![Restored](3.png)
+<img width="794" height="180" alt="3" src="https://github.com/user-attachments/assets/d3b439ba-8d11-44b0-b121-87e65f165590" />
+<img width="794" height="180" alt="1" src="https://github.com/user-attachments/assets/870bd2fa-5638-4bcc-8673-fc8290cca683" />
+
 
 *(Note: Please refer to the Jupyter Notebooks for the complete training pipeline and data preprocessing steps.)*
