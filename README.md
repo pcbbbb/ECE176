@@ -7,7 +7,7 @@ The goal of this project is to restore missing or corrupted regions of images us
 ## Model Architecture & Tech Stack
 * **Framework:** PyTorch
 * **Core Architecture:** Convolutional Neural Network (CNN) 
-* **Loss Function:** Average / 0.0074791633524000645
+* **Loss Function:** Average MSE / 0.0074791633524000645
 * **Optimization:** Back-propagation implemented for model training.
 
 ## Results
